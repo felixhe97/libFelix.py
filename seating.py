@@ -1,5 +1,3 @@
-
-
 MOD = int(1e9 + 7)
 
 def numarrangement(sc: int, lc: int, n: int) -> int:
